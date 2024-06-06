@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Kibeyy
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on py projects
-- 📫 How to reach me @_.kibe_r
+- 👋 Hi, I’m Collins Kibe
+- 👀 Passionate Android Developer
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m looking to collaborate on android projects
+- 📫 Reach me at collinskibe6477@gmail.com
 
 <!---
 Kibeyy/Kibeyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
