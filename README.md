@@ -6,7 +6,7 @@
 - 🛠️ Rebuilding skills in **Room**, **Dagger**, and Android Architecture  
 - 🤝 Open to collaborating on beginner/intermediate **Android projects**  
 - 📫 Reach me at: [collinskibe6477@gmail.com](mailto:collinskibe6477@gmail.com)
-- 📫 Also Reach me at [Instagram](https://www.instagram.com/_.kibe_r/?hl=en)
+
 
 
 
