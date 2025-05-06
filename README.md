@@ -2,7 +2,7 @@
 
 - 💻 Passionate about Mobile App Development  
 - 🧑‍💻 Amateur Android Developer using **Jetpack Compose**  
-- 🧪 Currently learning **Flutter** for cross-platform apps  
+- 🧪 Also advancing **Flutter** for cross-platform apps  
 - 🛠️ Rebuilding skills in **Room**, **Dagger**, and Android Architecture  
 - 🤝 Open to collaborating on beginner/intermediate **Android projects**  
 - 📫 Reach me at: [collinskibe6477@gmail.com](mailto:collinskibe6477@gmail.com)
